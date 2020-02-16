@@ -1,24 +1,14 @@
-# README
+1. Create project FinanceTracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+2. Create users using devise
+  https://github.com/heartcombo/devise
 
-Things you may want to cover:
+3. Test authentication system, login, logout
 
-* Ruby version
+4. Install bootstrap
 
-* System dependencies
+5. Update views: use gem to automate form styling
+  https://github.com/hisea/devise-bootstrap-views
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+6. Create Stock model with attribute
+  https://github.com/dblock/iex-ruby-client
