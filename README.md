@@ -12,3 +12,6 @@
 
 6. Create Stock model with attribute
   https://github.com/dblock/iex-ruby-client
+
+7. front-end structure for stock lookup
+  https://github.com/bokmann/font-awesome-rails
