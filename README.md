@@ -15,3 +15,6 @@
 
 7. front-end structure for stock lookup
   https://github.com/bokmann/font-awesome-rails
+
+8. Gem 'firago'
+  https://github.com/laserlemon/figaro
