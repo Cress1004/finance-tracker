@@ -18,3 +18,6 @@
 
 8. Gem 'firago'
   https://github.com/laserlemon/figaro
+
+9. facebook-messeger
+  https://github.com/jgorset/facebook-messenger
