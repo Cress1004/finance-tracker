@@ -21,3 +21,6 @@
 
 9. facebook-messeger
   https://github.com/jgorset/facebook-messenger
+
+10. facebook-omniauth
+  https://hackernoon.com/how-to-integrate-devise-and-omniauth-facebook-authentication-to-your-rails-app-tyiv3xpi
